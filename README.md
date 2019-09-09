@@ -11,6 +11,13 @@ In this competition, I have spend a lot of hours to try out new modeling techniq
 * 10 data augmentation techniques 
 * 630 GPU hours run
 
+## Research question formulation
+
+* Classification (to address the differences between images)
+* Linear regression (to address the progression in the images)
+* Ordinal Classification (multilable classification for images)
+
+
 ## CNN used in the project
 
 * EfficientNet B5/B0
